@@ -6,12 +6,10 @@ html
 {
     color: antiquewhite;
     text-align: center;
-    margin-left: 45%;
     text-transform: uppercase;
 }
 #img
 {
     height: 100%;
-    margin: auto;
-    border: 10px white solid;
+    margin-left: 25%
 }
